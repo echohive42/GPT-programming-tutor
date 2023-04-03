@@ -56,7 +56,7 @@ language = st.sidebar.selectbox("Select a Language:", options=["Python", "JavaSc
 st.title(f"Programming Tutor for {language}")
 level = st.sidebar.radio("Select Your Level:", options=["beginner", "intermediate", "advanced"])
 
-st.sidebar.title("Watch the [Video]"(https://youtu.be/mTXO2HHjHZI)")
+st.sidebar.title("Watch the [Video](https://youtu.be/mTXO2HHjHZI)")
 
 st.sidebar.title("Download the [Code](https://www.patreon.com/posts/gpt-4-teaches-go-80949065?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)")
 

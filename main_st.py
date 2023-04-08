@@ -60,7 +60,7 @@ st.sidebar.title("Watch the [Video](https://youtu.be/mTXO2HHjHZI)")
 
 st.sidebar.title("Download the [Code](https://www.patreon.com/posts/gpt-4-teaches-go-80949065?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)")
 
-st.sidebar.title("Join April 5th [AI Workshop and QA](https://www.patreon.com/posts/echohive-online-80849134?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)")
+st.sidebar.title("Join April 9th [AI Workshop and QA](https://www.patreon.com/posts/ai-workshop-and-81198912?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)")
 
 st.sidebar.title("Chat with us at [discord](https://discord.gg/PPxTP3Cs3G)")
 
